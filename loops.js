@@ -6,6 +6,10 @@
 // Hoera!
 // ==========================================
 
+for (let i = 0; i < 3; i++) {
+    let word = "Hoera!";
+    console.log(word);
+}
 
 
 // ==========================================
@@ -18,7 +22,13 @@
 // klaar!
  // ==========================================
 
+for (let i = 0; i < 5; i++) {
+    let words = "Loop";
+    console.log(words);
 
+    if (let words[i] = "klaar!"{
+        console.log(words);
+}
 
 // ==========================================
 // Opdracht 3. Maak een for-loop die van 0 tot 15 loopt. Voor ieder getal wordt in de console gelogd of het getal even of oneven is.
